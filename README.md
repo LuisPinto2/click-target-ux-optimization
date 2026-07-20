@@ -16,6 +16,13 @@ A Human-Computer Interaction (HCI) research and optimization project focused on 
   <em>🔊 <b>Note:</b> This interface includes bimodal auditory feedback. Check out the <b><a href="docs/demo.mp4">full video with audio here</a></b>.</em>
 </p>
 
+# Click the Target - UX & HCI Optimization
+
+> 🎮 **Live Demo:** Try the application directly in your browser with full audio feedback:  
+> 👉 **[Click here to play Live Demo](https://teu-utilizador.github.io/nome-do-repositorio/)**
+
+---
+
 ## Executive Summary
 
 The primary objective of this project was to analyze and eliminate interaction bottlenecks in a target selection web task (_Click the Target_). By benchmarking a baseline interface against an optimized redesign through controlled empirical testing ($N = 23$ participants), we measured the real-world impact of core HCI principles on motor performance and error dispersion.
