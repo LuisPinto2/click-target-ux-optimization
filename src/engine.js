@@ -96,28 +96,6 @@ function newSequence() {
 async function getSequence() {
     return Promise.resolve(getLocalSequence());
 }
-/*
-    const response = await fetch(
-        'http://areasgrupo.alunos.di.fc.ul.pt/~ipm000/projb/get_sequence.php',
-        {
-            method: 'POST',
-            body: JSON.stringify({
-                width: specs.width,
-                height: specs.height,
-                length: specs.sequenceLength,
-            }),
-        }
-    );
-
-    let result = await response.json();
-
-    if (result.success) {
-        return result.data
-    } else {
-        throw result.errors;
-    }
-}
-    */
 
 function getLocalSequence() {
     let coordinates = [];
