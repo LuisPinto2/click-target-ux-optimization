@@ -18,8 +18,8 @@ A Human-Computer Interaction (HCI) research and optimization project focused on 
 
 # Click the Target - UX & HCI Optimization
 
-> 🎮 **Live Demo:** Try the application directly in your browser with full audio feedback:  
-> 👉 **[Click here to play Live Demo](https://teu-utilizador.github.io/nome-do-repositorio/)**
+> 🎮 **Live Demo:** Test the application in real-time with full bimodal audio feedback:  
+> 👉 **[Click here to play the Live Demo](https://LuisPinto2.github.io/click-target-ux-optimization/)**
 
 ---
 
