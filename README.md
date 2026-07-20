@@ -1,7 +1,7 @@
 # Click the Target — UX Optimization & Statistical Validation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Academic Project](https://img.shields.io/badge/Academic--Project-FCUL--2024-blue)](#academic-context--portfolio-preservation)
+[![Academic Project](https://img.shields.io/badge/Academic--Project-FCUL--2025-blue)](#academic-context--portfolio-preservation)
 [![Grade](https://img.shields.io/badge/Grade-19.3%20%2F%2020-brightgreen)](#academic-context--portfolio-preservation)
 [![Focus](https://img.shields.io/badge/Focus-HCI%20%7C%20UX%20Design%20%7C%20Statistics-green)](#key-features--ux-design-principles)
 
