@@ -6,6 +6,8 @@
 
 A Human-Computer Interaction (HCI) research and optimization project focused on reducing target acquisition time in a web-based grid interaction task. By applying **Fitts's Law**, visual saliency, feedforward mechanisms, and auditory feedback, the redesigned interface achieved a **~12.5% reduction in completion time** ($p = 0.00105$) under controlled user testing.
 
+> **Academic Context & Portfolio Preservation:** Developed as a core group engineering project for the Human-Computer Interaction / Interfaces Pessoa-Máquina (IPM) course within the BSc in Software Engineering program at the Faculty of Sciences of the University of Lisbon (FCUL). The project was successfully evaluated and subsequently refactored and documented for this repository to ensure long-term portfolio preservation, clean separation of concerns, and full compliance with industry software standards.
+>
 > 📄 **Full Report:** The complete academic report detailing the theoretical background, testing protocols, and complete dataset is available in Portuguese inside the [`docs/`](./docs) directory.
 
 ---
@@ -106,3 +108,13 @@ click-target-ux-optimization/
 ├── .gitignore                # Git exclusion rules
 └── README.md                 # Portfolio project documentation
 ```
+
+---
+
+## Academic Integrity Notice
+
+**Note on Academic Integrity & IP**: The baseline engine framework (engine.js, base.css) was provided by the FCUL teaching staff as starter code for the course assignment. Custom modifications, statistical validation, and visual redesigns represent the original work of the project authors.
+
+This repository is published purely for portfolio and educational demonstration purposes.
+
+**For current students**: While the repository is open for inspection, using or reproducing any part of this code for official academic assignments strictly violates the Academic Integrity Regulations of the Faculty of Sciences of the University of Lisbon (FCUL) and constitutes plagiarism. The author holds no responsibility for any misuse or academic misconduct committed by third parties.
