@@ -93,12 +93,10 @@ function newSequence() {
         });
 }
 
-/*
 async function getSequence() {
-    if (location.protocol == 'file:') {
-        return Promise.resolve(getLocalSequence());
-    }
-
+    return Promise.resolve(getLocalSequence());
+}
+/*
     const response = await fetch(
         'http://areasgrupo.alunos.di.fc.ul.pt/~ipm000/projb/get_sequence.php',
         {
